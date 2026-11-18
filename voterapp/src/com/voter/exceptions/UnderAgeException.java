@@ -1,6 +1,6 @@
 package com.voter.exceptions;
 
-public class UnderAgeException extends Exception {
+public class UnderAgeException extends NotEligibleException {
 
 	/**
 	 * 
